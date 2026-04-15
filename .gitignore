@@ -32,6 +32,8 @@ yarn-error.log*
 # Development
 .dev-check.*
 .run-dev*
+.tmpfix/
+**/.tmpfix/
 
 # IDE
 .vscode/
@@ -40,7 +42,6 @@ yarn-error.log*
 # Temporary files
 *.zip
 .docx_extract*
-.tmpfix/
 read\ me.txt
 需求文档*
 
